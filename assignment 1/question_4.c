@@ -1,0 +1,4 @@
+palin(char* input)
+{
+    
+}
