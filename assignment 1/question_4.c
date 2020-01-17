@@ -1,4 +1,1 @@
-palin(char* input)
-{
-    
-}
+hello this is rahul jain
