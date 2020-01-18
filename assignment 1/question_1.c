@@ -34,3 +34,4 @@ int countComponents (GRAPH* g)
     
     return count;
 }
+//this code is not completed so unfinished code.
